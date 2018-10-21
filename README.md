@@ -1,6 +1,6 @@
 # Text_Generator
 
-the code takes text as an input and produces new generated output as a new text.
+The code takes text as an input and produces new generated output as a text. After the model is trained it produces a sequence of sentences/words/letters with more or less success depending on the functional parameter adjustments.
 
 # Setup
 
