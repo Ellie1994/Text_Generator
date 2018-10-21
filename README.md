@@ -17,3 +17,10 @@ os
 [pickle](https://docs.python.org/3/library/pickle.html)
 
 sys
+
+# Sources of Input
+
+you can install the [NLTK](https://www.nltk.org/) python library to access some classical books as txt files
+to the installation with pip --> https://pypi.org/project/nltk/
+
+After the installation you should be able to go to the path *nltk_data/corpora/gutenberg* where you find some classical books.
