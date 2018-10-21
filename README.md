@@ -10,7 +10,7 @@ It is generally recommended to install the Python virtual environment which isol
 
 [tensorflow](https://www.tensorflow.org/install/pip)
 
-tflearn
+[tflearn](http://tflearn.org/)
 
 os
 
