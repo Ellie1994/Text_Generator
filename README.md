@@ -24,3 +24,6 @@ you can install the [NLTK](https://www.nltk.org/) python library to access some 
 to the installation with pip --> https://pypi.org/project/nltk/
 
 After the installation you should be able to go to the path *nltk_data/corpora/gutenberg* where you find some classical books.
+
+# Adam Optimization Algorithm 
+for more reading click [here](https://machinelearningmastery.com/adam-optimization-algorithm-for-deep-learning/)
